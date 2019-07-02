@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="https://image.ibb.co/cZ1q5f/awesome-actions.jpg" />
+    <img src="awesome.jpg" />
   <br>
   <br>
   <br>
