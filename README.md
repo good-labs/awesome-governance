@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="awesome.jpg" />
+    <img src="awesome.svg" />
   <br>
   <br>
   <br>
