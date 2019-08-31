@@ -45,6 +45,7 @@ The examples below can help to guide you to what is right for your community.
 
 ## Guides and Articles
 
+ - [Open Governance](https://github.com/opengovernance/opengovernance.dev) outlines the difference between open source and open governance.
  - [Open Source Leadership and Governance](https://opensource.guide/leadership-and-governance/)
  - [Governance for the GitHub Generation](https://www.infoworld.com/article/2608195/governance-for-the-github-generation.html)
 
